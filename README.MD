@@ -35,6 +35,6 @@ Keep in mind, that you will need basic UNIX knowledge, JS + the other language y
 
 8. App pages are .html files located in the resources folder. JS files are under resources/js. Edit that files and/or create new ones to develop your app.
 
-9. Happy codding!!
+9. Happy coding!!
 
 
